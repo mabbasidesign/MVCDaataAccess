@@ -5,9 +5,9 @@ VisualStudioVersion = 16.0.29519.87
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCDataAcess", "MVCDataAcess.csproj", "{90DFC04C-E2C8-4FB0-9ECD-F02B77B58432}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLibrary", "..\DataLibrary\DataLibrary.csproj", "{A8F90958-191E-4751-8CE6-C5077B538728}"
-EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "MVCDemodDb", "..\MVCDemodDb\MVCDemodDb.sqlproj", "{EFBCB2EC-EAEE-4D41-8F09-F3BE95E8DC73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLibrary", "..\DataLibrary\DataLibrary.csproj", "{F94C2723-9060-4514-BB9C-7295CB50E109}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,16 +19,16 @@ Global
 		{90DFC04C-E2C8-4FB0-9ECD-F02B77B58432}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90DFC04C-E2C8-4FB0-9ECD-F02B77B58432}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90DFC04C-E2C8-4FB0-9ECD-F02B77B58432}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A8F90958-191E-4751-8CE6-C5077B538728}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A8F90958-191E-4751-8CE6-C5077B538728}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A8F90958-191E-4751-8CE6-C5077B538728}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A8F90958-191E-4751-8CE6-C5077B538728}.Release|Any CPU.Build.0 = Release|Any CPU
 		{EFBCB2EC-EAEE-4D41-8F09-F3BE95E8DC73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{EFBCB2EC-EAEE-4D41-8F09-F3BE95E8DC73}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EFBCB2EC-EAEE-4D41-8F09-F3BE95E8DC73}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
 		{EFBCB2EC-EAEE-4D41-8F09-F3BE95E8DC73}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EFBCB2EC-EAEE-4D41-8F09-F3BE95E8DC73}.Release|Any CPU.Build.0 = Release|Any CPU
 		{EFBCB2EC-EAEE-4D41-8F09-F3BE95E8DC73}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{F94C2723-9060-4514-BB9C-7295CB50E109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F94C2723-9060-4514-BB9C-7295CB50E109}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F94C2723-9060-4514-BB9C-7295CB50E109}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F94C2723-9060-4514-BB9C-7295CB50E109}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
